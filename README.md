@@ -1,4 +1,4 @@
-# Astro Polygon
+# Polygon
 
 ## Project Overview
 
